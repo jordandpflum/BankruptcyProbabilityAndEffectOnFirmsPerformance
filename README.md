@@ -6,5 +6,5 @@ The objective of this project is to first replicate the result from the paper â€
 
 Weekly reports presented to the MSBA FA Cohort can be found linked below:
 1. [Week 1](https://github.com/jordandpflum/BankruptcyProbabilityAndEffectOnFirmsPerformance/WeeklyDeliveries/WeekOf1_25)
-2. [Week 2](https://github.com/jordandpflum/BankruptcyProbabilityAndEffectOnFirmsPerformance/WeeklyDeliveries/Week of 2_1)
-3. [Week 3](https://github.com/jordandpflum/BankruptcyProbabilityAndEffectOnFirmsPerformance/WeeklyDeliveries/Week of 2_8)
+2. [Week 2](https://github.com/jordandpflum/BankruptcyProbabilityAndEffectOnFirmsPerformance/WeeklyDeliveries/WeekOf2_1)
+3. [Week 3](https://github.com/jordandpflum/BankruptcyProbabilityAndEffectOnFirmsPerformance/WeeklyDeliveries/WeekOf2_8)
